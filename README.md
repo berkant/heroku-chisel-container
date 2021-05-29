@@ -1,5 +1,5 @@
 # heroku-chisel-container
-Runs a Chisel server on Heroku platform. Requires `container` stack.
+Runs a [Chisel](https://github.com/jpillora/chisel) server on Heroku platform. Requires `container` stack.
 
 ## Usage
 * Clone the repository.
