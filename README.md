@@ -11,3 +11,4 @@ heroku apps:create --stack container --manifest
 ```
 git push heroku master
 ```
+* Optionally, add an `AUTH` (in `user:pass` form) config variable in your Heroku dashboard to password-protect your Chisel server.
